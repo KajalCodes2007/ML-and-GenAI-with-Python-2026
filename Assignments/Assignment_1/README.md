@@ -1,6 +1,6 @@
 Assignment 1
 
-1	Find area of rectangle. 
+1	Find area of rectangle.  
 2	Find simple interest. 
 3	Convert temperature from Celsius to Fahrenheit. 
 4	Calculate average of 3 numbers. 
